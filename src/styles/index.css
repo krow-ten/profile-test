@@ -1,0 +1,8 @@
+.readOnly input {
+  border-color: transparent;
+}
+
+form input,
+form button {
+  margin: 5px;
+}
